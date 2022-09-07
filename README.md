@@ -27,4 +27,6 @@ Will Update this repository more
 
 #OCR based document search using OpenCV library (to be done)
 
+#IMPORVE BOOTSTRAP, UGLY BOOTSTRAPPING
+
 #MANY MORE FUNCTIONALITIES I DID NOT REMEMBER WAS A PAST PROJECT
